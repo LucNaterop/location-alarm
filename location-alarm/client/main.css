@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+h1 {
+	font-weight: 150 !important;
+	font-size: 35px !important;
+	letter-spacing: -2px !important;
+}
+
+p {
+	font-weight: 300 !important;
+}
